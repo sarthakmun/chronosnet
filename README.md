@@ -4,7 +4,6 @@
 [![CI Build](https://github.com/sarthakmun/chronosnet/actions/workflows/ci.yml/badge.svg)](https://github.com/sarthakmun/chronosnet/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-Sarthak%20Mun-blueviolet)](https://github.com/sarthakmun)
 
 ---
@@ -174,7 +173,3 @@ pytest tests/ -v
 *GitHub:* [@sarthakmun](https://github.com/sarthakmun)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -10,7 +10,6 @@ name = "chronosnet"
 version = "1.0.0"
 description = "Deep Neural Time-Series & AR-Net Hybrid Interpretable Forecasting Framework"
 readme = "README.md"
-license = { text = "MIT" }
 authors = [
   { name = "Sarthak Mun", email = "sarthak.mun03@gmail.com" },
 ]
